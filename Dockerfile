@@ -1,6 +1,6 @@
 FROM node:12-alpine as build
 
-ARG version=v1.0.0
+ARG version=v1.0.1
 
 RUN apk add --no-cache git \
     && git clone https://github.com/teritamahamburg/frontend.git --depth 1 -b ${version} \
@@ -24,4 +24,8 @@ WORKDIR /teritama
 
 RUN npm ci --only=production
 
-CMD ["DEBUG=", "PORT=80", "npm", "run", "start"]
+EXPOSE 80
+
+ENV DEBUG="" PORT=80
+
+CMD ["npm", "run", "start"]
