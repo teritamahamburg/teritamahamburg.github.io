@@ -1,6 +1,6 @@
 FROM node:12-alpine as build
 
-ARG version=v1.0.5
+ARG version=v1.0.6
 
 RUN apk add --no-cache git \
     && git clone https://github.com/teritamahamburg/frontend.git --depth 1 -b ${version} \
@@ -8,8 +8,9 @@ RUN apk add --no-cache git \
     && cd frontend && npm i && npm run build && cd .. \
     && cd backend  && npm i && npm run build && cd .. \
     && mkdir teritama \
-    && mv /frontend/dist         /teritama/public \
-    && mv /backend/dist         /teritama/dist \
+    && mv /frontend/dist /teritama/public \
+    && mv /backend/dist  /teritama/dist \
+    && mv /backend/src   /teritama/src \
     && mv /backend/package.json      /teritama \
     && mv /backend/package-lock.json /teritama
 
@@ -28,4 +29,4 @@ EXPOSE 80
 
 ENV DEBUG="" PORT=80
 
-CMD ["npm", "run", "start"]
+CMD npm run db:migrate -- --env production; npm run start
