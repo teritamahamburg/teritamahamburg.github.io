@@ -1,0 +1,15 @@
+:version: 1.0.6
+
+= TeritamaHamburg
+
+latest version: v{version}
+
+== Docker
+
+[source, bash, subs="attributes"]
+----
+docker run \
+    -p 80 \
+    -v production.sqlite:/teritama/production.sqlite \
+    syuchan1005/teritama:{version}
+----

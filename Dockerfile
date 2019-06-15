@@ -1,6 +1,6 @@
 FROM node:12-alpine as build
 
-ARG version=v1.0.5
+ARG version=v1.0.6
 
 RUN apk add --no-cache git \
     && git clone https://github.com/teritamahamburg/frontend.git --depth 1 -b ${version} \
@@ -28,4 +28,4 @@ EXPOSE 80
 
 ENV DEBUG="" PORT=80
 
-CMD ["npm", "run", "start"]
+CMD npm run db:migrate -- --env production; npm run start
