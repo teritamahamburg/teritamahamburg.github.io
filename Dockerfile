@@ -1,6 +1,6 @@
 FROM node:12-alpine as build
 
-ARG version=v1.0.8
+ARG version=v1.0.9
 
 RUN apk add --no-cache git \
     && git clone https://github.com/teritamahamburg/frontend.git --depth 1 -b ${version} \
@@ -26,6 +26,8 @@ WORKDIR /teritama
 RUN npm ci --only=production
 
 EXPOSE 80
+
+VOLUME ["/teritama/storage", "/teritama/production.sqlite"]
 
 ENV DEBUG="" PORT=80
 
