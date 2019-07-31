@@ -1,6 +1,6 @@
 FROM node:12.7-alpine as build
 
-ARG version=v1.3.2
+ARG version=v1.3.3
 
 RUN apk add --no-cache git \
     && git clone https://github.com/teritamahamburg/frontend.git --depth 1 -b ${version} \
