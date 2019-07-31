@@ -1,12 +1,12 @@
 FROM node:12.7-alpine as build
 
-ARG version=v1.3.1
+ARG version=v1.3.2
 
 RUN apk add --no-cache git \
     && git clone https://github.com/teritamahamburg/frontend.git --depth 1 -b ${version} \
     && git clone https://github.com/teritamahamburg/backend.git  --depth 1 -b ${version} \
-    && cd frontend && npm ci && npm run build && cd .. \
-    && cd backend  && npm ci && npm run build && cd .. \
+    && cd frontend && npm install && npm run build && cd .. \
+    && cd backend  && npm install && npm run build && cd .. \
     && mkdir teritama \
     && mv /frontend/dist /teritama/public \
     && mv /backend/dist  /teritama/dist \
@@ -21,8 +21,7 @@ LABEL name="TeritamaHamburg"
 
 COPY --from=build /teritama /teritama
 
-RUN cd /teritama \
-    && npm ci --only=production \
+RUN cd /teritama && npm ci --only=production \
     && apk add --no-cache supervisor nginx
 
 COPY nginx.conf /etc/nginx/
