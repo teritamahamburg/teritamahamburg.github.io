@@ -1,6 +1,6 @@
 FROM node:12.7-alpine as build
 
-ARG version=v1.3.3
+ARG version=v1.3.4
 
 RUN apk add --no-cache git \
     && git clone https://github.com/teritamahamburg/frontend.git --depth 1 -b ${version} \
@@ -29,7 +29,8 @@ COPY supervisord.conf /etc/
 
 EXPOSE 80
 
-VOLUME ["/teritama/storage", "/teritama/production.sqlite"]
+# "/teritama/production.sqlite" is file
+VOLUME ["/teritama/storage"]
 
 ENV DEBUG=""
 

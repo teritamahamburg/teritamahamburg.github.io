@@ -1,10 +1,11 @@
 # TeritamaHamburg
-> latest version: v1.3.3
+> latest version: v1.3.4
 
 ## Docker
 ```bash
 docker run \
     -p 80 \
-    -v production.sqlite:/teritama/production.sqlite \
-    syuchan1005/teritama:1.3.3
+    -v /{Your path}/storage:/teritama/storage \
+    -v /{Your path}/production.sqlite:/teritama/production.sqlite \
+    syuchan1005/teritama:1.3.4
 ```
