@@ -21,7 +21,8 @@ LABEL name="TeritamaHamburg"
 
 EXPOSE 80
 
-ENV DEBUG=""
+ENV DEBUG="" \
+    NODE_ENV="production"
 
 RUN apk add --no-cache supervisor=3.3.4-r1 nginx=1.14.2-r4 \
     && mkdir /teritama
