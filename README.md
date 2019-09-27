@@ -1,5 +1,8 @@
 # TeritamaHamburg
-> latest version: v1.3.7
+
+[![shields.io](https://img.shields.io/badge/latest-v1.3.7-brightgreen?style=for-the-badge)](https://hub.docker.com/r/syuchan1005/teritama)
+
+[![dockeri.co](https://dockeri.co/image/syuchan1005/teritama)](https://hub.docker.com/r/syuchan1005/teritama)
 
 ## Docker
 ```bash
