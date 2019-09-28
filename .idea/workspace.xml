@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e25a501-20d8-4de1-8136-44e531d6002a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="development" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="development" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="development" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="development" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../backend" value="master" />
+        <entry key="$PROJECT_DIR$/../frontend" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="fSyDplDx" />
+  </component>
+  <component name="ProjectId" id="1Mzach3kuguspXShCyghoupijWl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/ProgramFiles/AndroidSDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../backend" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="PsiViewer.ProjectComponent">
+    <option name="HIGHLIGHT" value="false" />
+    <option name="FILTER_WHITESPACE" value="false" />
+    <option name="SHOW_PROPERTIES" value="true" />
+    <option name="SPLIT_DIVIDER_POSITION" value="300" />
+    <option name="AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Home\Desktop\teritama\backend\src\sequelize" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.backend:serve">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Server-Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="buildOnly" value="true" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="syuchan1005/teritama:latest" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="backend:serve" type="js.build_tools.npm" temporary="true">
+      <package-json value="$PROJECT_DIR$/../backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="frontend:serve" type="js.build_tools.npm" temporary="true">
+      <package-json value="$PROJECT_DIR$/../frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="npm.frontend:serve" />
+      <item itemvalue="npm.backend:serve" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.backend:serve" />
+        <item itemvalue="npm.frontend:serve" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="npm.backend:serve" />
+        <item itemvalue="npm.frontend:serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@cb2d240e" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@cb2d240e" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@51037c39" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@6ebdb013" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@6ebdb013" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@7c0d2c3f" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e25a501-20d8-4de1-8136-44e531d6002a" name="Default Changelist" comment="" />
+      <created>1559832903671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559832903671</updated>
+      <workItem from="1559832904936" duration="1480000" />
+      <workItem from="1559871364512" duration="5281000" />
+      <workItem from="1559913634664" duration="424000" />
+      <workItem from="1559978678362" duration="3295000" />
+      <workItem from="1560004823976" duration="2506000" />
+      <workItem from="1560090477522" duration="10000" />
+      <workItem from="1560432592980" duration="78000" />
+      <workItem from="1560589660846" duration="884000" />
+      <workItem from="1560592932391" duration="343000" />
+      <workItem from="1561189962171" duration="200000" />
+      <workItem from="1561191129735" duration="13000" />
+      <workItem from="1561191157699" duration="1352000" />
+      <workItem from="1561291668861" duration="110000" />
+      <workItem from="1561514354350" duration="160000" />
+      <workItem from="1562281209697" duration="93000" />
+      <workItem from="1562293411243" duration="53000" />
+      <workItem from="1562906616076" duration="8000" />
+      <workItem from="1563529653025" duration="138000" />
+      <workItem from="1563532557934" duration="53000" />
+      <workItem from="1564043146435" duration="160000" />
+      <workItem from="1564043332670" duration="6000" />
+      <workItem from="1564198410353" duration="46000" />
+      <workItem from="1564273374277" duration="5660000" />
+      <workItem from="1564288941994" duration="621000" />
+      <workItem from="1564290228007" duration="57000" />
+      <workItem from="1564404841517" duration="55000" />
+      <workItem from="1564563540011" duration="140000" />
+      <workItem from="1564576987812" duration="46000" />
+      <workItem from="1569310012361" duration="11417000" />
+      <workItem from="1569336458243" duration="660000" />
+      <workItem from="1569337234262" duration="62000" />
+      <workItem from="1569337317636" duration="810000" />
+      <workItem from="1569373694746" duration="4581000" />
+      <workItem from="1569379262357" duration="606000" />
+      <workItem from="1569399455305" duration="772000" />
+      <workItem from="1569407261464" duration="625000" />
+      <workItem from="1569477433232" duration="95000" />
+      <workItem from="1569479268950" duration="551000" />
+      <workItem from="1569561337597" duration="8373000" />
+      <workItem from="1569572120898" duration="20000" />
+      <workItem from="1569572173971" duration="1698000" />
+      <workItem from="1569573956648" duration="1467000" />
+      <workItem from="1569630492165" duration="1216000" />
+    </task>
+    <task id="LOCAL-00001" summary=":tada: Init commit">
+      <created>1559833065780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559833065780</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":tada: v1.0.0">
+      <created>1559911725775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559911725775</updated>
+    </task>
+    <task id="LOCAL-00003" summary=":tada: v1.0.0">
+      <created>1559913715659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559913715659</updated>
+    </task>
+    <task id="LOCAL-00004" summary=":tada: v1.0.1">
+      <created>1559999822111</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559999822111</updated>
+    </task>
+    <task id="LOCAL-00005" summary=":tada: v1.0.1">
+      <created>1559999941101</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559999941101</updated>
+    </task>
+    <task id="LOCAL-00006" summary=":tada: v1.0.1">
+      <created>1560000328252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560000328252</updated>
+    </task>
+    <task id="LOCAL-00007" summary=":tada: v1.0.1">
+      <created>1560002605233</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560002605233</updated>
+    </task>
+    <task id="LOCAL-00008" summary=":tada: v1.0.2">
+      <created>1560007668376</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560007668376</updated>
+    </task>
+    <task id="LOCAL-00009" summary=":tada: v1.0.3">
+      <created>1560011091673</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1560011091673</updated>
+    </task>
+    <task id="LOCAL-00010" summary=":tada: v1.0.4">
+      <created>1560048147839</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1560048147839</updated>
+    </task>
+    <task id="LOCAL-00011" summary=":tada: v1.0.5">
+      <created>1560432625614</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1560432625614</updated>
+    </task>
+    <task id="LOCAL-00012" summary=":tada: v1.0.6">
+      <created>1560590469501</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1560590469503</updated>
+    </task>
+    <task id="LOCAL-00013" summary=":tada: v1.0.6">
+      <created>1560593100900</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1560593100900</updated>
+    </task>
+    <task id="LOCAL-00014" summary=":tada: v1.0.7">
+      <created>1561190143311</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561190143311</updated>
+    </task>
+    <task id="LOCAL-00015" summary=":tada: v1.0.8">
+      <created>1561191691447</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561191691447</updated>
+    </task>
+    <task id="LOCAL-00016" summary=":tada: v1.0.9">
+      <created>1561192497558</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1561192497558</updated>
+    </task>
+    <task id="LOCAL-00017" summary=":tada: v1.1.0">
+      <created>1561291727493</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1561291727493</updated>
+    </task>
+    <task id="LOCAL-00018" summary=":tada: v1.1.1">
+      <created>1561514426805</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1561514426805</updated>
+    </task>
+    <task id="LOCAL-00019" summary=":tada: v1.1.2">
+      <created>1562281278594</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1562281278594</updated>
+    </task>
+    <task id="LOCAL-00020" summary=":tada: v1.2.0">
+      <created>1563529736722</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1563529736722</updated>
+    </task>
+    <task id="LOCAL-00021" summary=":tada: v1.2.1">
+      <created>1563532591419</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1563532591419</updated>
+    </task>
+    <task id="LOCAL-00022" summary=":tada: v1.3.0">
+      <created>1564043185847</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1564043185847</updated>
+    </task>
+    <task id="LOCAL-00023" summary=":tada: v1.3.1">
+      <created>1564198437092</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1564198437092</updated>
+    </task>
+    <task id="LOCAL-00024" summary=":tada: v1.3.1 - add nginx">
+      <created>1564286745840</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1564286745841</updated>
+    </task>
+    <task id="LOCAL-00025" summary=":tada: v1.3.2">
+      <created>1564563655540</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1564563655540</updated>
+    </task>
+    <task id="LOCAL-00026" summary=":tada: v1.3.3">
+      <created>1564577017951</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1564577017951</updated>
+    </task>
+    <task id="LOCAL-00027" summary=":construction: remove search page">
+      <created>1569336364206</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1569336364206</updated>
+    </task>
+    <task id="LOCAL-00028" summary=":construction: add sort arg in children query">
+      <created>1569336978034</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1569336978034</updated>
+    </task>
+    <task id="LOCAL-00029" summary=":construction: add sort arg in children query">
+      <created>1569336985506</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1569336985506</updated>
+    </task>
+    <task id="LOCAL-00030" summary=":tada: v1.3.4">
+      <created>1569337413521</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1569337413521</updated>
+    </task>
+    <task id="LOCAL-00031" summary=":bug: fix bottom margins">
+      <created>1569377876768</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1569377876768</updated>
+    </task>
+    <task id="LOCAL-00032" summary=":bug: children is not selecting">
+      <created>1569377891692</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1569377891692</updated>
+    </task>
+    <task id="LOCAL-00033" summary=":tada: v1.3.5">
+      <created>1569378256383</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1569378256383</updated>
+    </task>
+    <task id="LOCAL-00034" summary=":bug: revert graphql middleware">
+      <created>1569407321739</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1569407321739</updated>
+    </task>
+    <task id="LOCAL-00035" summary=":tada: v1.3.6">
+      <created>1569407544933</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1569407544933</updated>
+    </task>
+    <task id="LOCAL-00036" summary=":-1: remove setting button">
+      <created>1569479333378</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1569479333378</updated>
+    </task>
+    <task id="LOCAL-00037" summary=":construction: change setting">
+      <created>1569571171392</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1569571171392</updated>
+    </task>
+    <task id="LOCAL-00038" summary=":tada: v1.3.7">
+      <created>1569571541655</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1569571541655</updated>
+    </task>
+    <task id="LOCAL-00039" summary=":art: change README">
+      <created>1569572129154</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1569572129154</updated>
+    </task>
+    <task id="LOCAL-00040" summary=":t-shirt: update dependencies in backend">
+      <created>1569573225733</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1569573225733</updated>
+    </task>
+    <task id="LOCAL-00041" summary=":art: update Dockerfile">
+      <created>1569574590209</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1569574590209</updated>
+    </task>
+    <task id="LOCAL-00042" summary=":tada: v1.3.8">
+      <created>1569574802833</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1569574802833</updated>
+    </task>
+    <task id="LOCAL-00043" summary=":buf: Setting is not working">
+      <created>1569631406731</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1569631406731</updated>
+    </task>
+    <task id="LOCAL-00044" summary=":tada: v1.3.9">
+      <created>1569631593139</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1569631593139</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../backend" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../frontend" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../frontend" />
+                        <option value="$PROJECT_DIR$/../backend" />
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="SHOW_ROOT_NAMES" value="true" />
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":tada: v1.1.2" />
+    <MESSAGE value=":tada: v1.2.0" />
+    <MESSAGE value=":tada: v1.2.1" />
+    <MESSAGE value=":tada: v1.3.0" />
+    <MESSAGE value=":tada: v1.3.1" />
+    <MESSAGE value=":tada: v1.3.1 - add nginx" />
+    <MESSAGE value=":tada: v1.3.2" />
+    <MESSAGE value=":tada: v1.3.3" />
+    <MESSAGE value=":construction: remove search page" />
+    <MESSAGE value=":construction: add sort arg in children query" />
+    <MESSAGE value=":tada: v1.3.4" />
+    <MESSAGE value=":bug: fix bottom margins" />
+    <MESSAGE value=":bug: children is not selecting" />
+    <MESSAGE value=":tada: v1.3.5" />
+    <MESSAGE value=":bug: revert graphql middleware" />
+    <MESSAGE value=":tada: v1.3.6" />
+    <MESSAGE value=":-1: remove setting button" />
+    <MESSAGE value=":construction: change setting" />
+    <MESSAGE value=":tada: v1.3.7" />
+    <MESSAGE value=":art: change README" />
+    <MESSAGE value=":t-shirt: update dependencies in backend" />
+    <MESSAGE value=":art: update Dockerfile" />
+    <MESSAGE value=":tada: v1.3.8" />
+    <MESSAGE value=":buf: Setting is not working" />
+    <MESSAGE value=":tada: v1.3.9" />
+    <option name="LAST_COMMIT_MESSAGE" value=":tada: v1.3.9" />
+  </component>
+</project>
